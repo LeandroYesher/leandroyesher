@@ -38,8 +38,6 @@ Git | GitHub | VS Code
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
 
 ---
