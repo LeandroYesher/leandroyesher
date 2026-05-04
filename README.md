@@ -1,6 +1,6 @@
 ##👋 Olá, eu sou **Leandro Yesher**
 
-🎓 Estudante de Engenharia da Computação / Software
+🎓 Estudante de Engenharia de Software
 💻 Apaixonado por tecnologia, desenvolvimento e inovação
 🚀 Em constante evolução e aprendizado
 
