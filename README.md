@@ -1,16 +1,25 @@
-## Hi there 👋
+##👋 Olá, eu sou **Leandro Yesher**
 
-<!--
-**LeandroYesher/leandroyesher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação / Software
+💻 Apaixonado por tecnologia, desenvolvimento e inovação
+🚀 Em constante evolução e aprendizado
 
-Here are some ideas to get you started:
+#🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um desenvolvedor em formação com interesse em construir soluções eficientes e inteligentes. Tenho focado meus estudos em:
+
+Desenvolvimento de software
+Inteligência Artificial
+Estruturas de Dados e Algoritmos
+Engenharia de Sistemas
+
+Busco sempre aprender na prática, criando projetos e explorando novas tecnologias.
+
+💻 Linguagens: Python | Java | C/C++ | JavaScript  
+⚙️ Frameworks: Node.js | React (básico)  
+🗄️ Banco de Dados: MySQL | PostgreSQL  
+🔧 Ferramentas: Git | GitHub | VS Code  
+
+📌 Repositórios: Em crescimento...
+🔥 Contribuições: Consistentes
+📈 Foco: Evolução contínua
