@@ -1,25 +1,76 @@
-# 👋 Olá, eu sou **Leandro Yesher**
+# 👋 Olá, eu sou Leandro Yesher
 
 🎓 Estudante de Engenharia de Software
 💻 Apaixonado por tecnologia, desenvolvimento e inovação
 🚀 Em constante evolução e aprendizado
 
+---
+
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação com interesse em construir soluções eficientes e inteligentes. Tenho focado meus estudos em:
+Sou um desenvolvedor em formação, focado em construir soluções eficientes e inteligentes.
+Tenho direcionado meus estudos para:
 
-Desenvolvimento de software
-Inteligência Artificial
-Estruturas de Dados e Algoritmos
-Engenharia de Sistemas
+* 💡 Desenvolvimento de Software
+* 🤖 Inteligência Artificial
+* 🧠 Estruturas de Dados e Algoritmos
+* 🏗️ Engenharia de Sistemas
 
 Busco sempre aprender na prática, criando projetos e explorando novas tecnologias.
 
-💻 Linguagens: Python | Java | C/C++ | JavaScript  
-⚙️ Frameworks: Node.js | React (básico)  
-🗄️ Banco de Dados: MySQL | PostgreSQL  
-🔧 Ferramentas: Git | GitHub | VS Code  
+---
 
-📌 Repositórios: Em crescimento...
-🔥 Contribuições: Consistentes
-📈 Foco: Evolução contínua
+## 🛠️ Tecnologias e Ferramentas
+
+**💻 Linguagens:**
+Python | Java | C/C++ | JavaScript
+
+**⚙️ Frameworks:**
+Node.js | React (básico)
+
+**🗄️ Banco de Dados:**
+MySQL | PostgreSQL
+
+**🔧 Ferramentas:**
+Git | GitHub | VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroYesher\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroYesher\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Em breve... (trabalhando em novos projetos 🚧)
+
+---
+
+## 🎯 Objetivos
+
+* Evoluir como desenvolvedor
+* Contribuir com projetos open-source
+* Trabalhar com tecnologia e inovação
+* Criar soluções com impacto real
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn: https://linkedin.com/in/leandroyesher
+
+---
+
+## ⚡ Curiosidades
+
+* 🧩 Gosto de resolver problemas complexos
+* 📚 Sempre aprendendo algo novo
+* 💻 Tecnologia faz parte do meu dia a dia
+
+---
+
+💡 *"Aprender, construir e evoluir todos os dias."*
