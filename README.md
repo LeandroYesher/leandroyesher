@@ -1,10 +1,10 @@
-##👋 Olá, eu sou **Leandro Yesher**##
+## 👋 Olá, eu sou **Leandro Yesher**
 
 🎓 Estudante de Engenharia de Software
 💻 Apaixonado por tecnologia, desenvolvimento e inovação
 🚀 Em constante evolução e aprendizado
 
-#🚀 Sobre mim#
+# 🚀 Sobre mim
 
 Sou um desenvolvedor em formação com interesse em construir soluções eficientes e inteligentes. Tenho focado meus estudos em:
 
