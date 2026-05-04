@@ -38,9 +38,9 @@ Git | GitHub | VS Code
 
 ## 📊 GitHub Stats
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroYesher\&show_icons=true\&theme=tokyonight)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroyesher\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroYesher\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroyesher\&layout=compact\&theme=tokyonight)
 
 ---
 
