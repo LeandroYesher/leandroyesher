@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Sobre mim
+<h2 align="center">🚀 Sobre mim</h2>
 
 Sou um desenvolvedor em formação, focado em construir soluções eficientes e inteligentes.
 Tenho direcionado meus estudos para:
