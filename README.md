@@ -1,4 +1,8 @@
-# 👋 Olá, eu sou Leandro Yesher
+<center><h1> 👋 Hello world, eu sou Leandro Yesher </h1></center>
+
+<p align="center">
+  <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" />
+</p>
 
 🎓 Estudante de Engenharia de Software
 💻 Apaixonado por tecnologia, desenvolvimento e inovação
