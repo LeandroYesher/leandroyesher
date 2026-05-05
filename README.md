@@ -26,7 +26,7 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 **💻 Linguagens:**
 
@@ -47,19 +47,19 @@ Git | GitHub | VS Code
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
 
 ---
 
-## 📂 Projetos em Destaque
+<h2 align="center">📂 Projetos em Destaque</h2>
 
 🔹 Em breve... (trabalhando em novos projetos 🚧)
 
 ---
 
-## 🎯 Objetivos
+<h2 align="center">🎯 Objetivos</h2>
 
 * Evoluir como desenvolvedor
 * Contribuir com projetos open-source
@@ -68,18 +68,13 @@ Git | GitHub | VS Code
 
 ---
 
-## 📫 Contato
-
-💼 LinkedIn: https://linkedin.com/in/leandroyesher
-
----
-
-## ⚡ Curiosidades
+<h2 align="center">⚡ Curiosidades</h2>
 
 * 🧩 Gosto de resolver problemas complexos
 * 📚 Sempre aprendendo algo novo
 * 💻 Tecnologia faz parte do meu dia a dia
 
 ---
-
-💡 *"Aprender, construir e evoluir todos os dias."*
+<p align="center">
+💡 <em>"Aprender, construir e evoluir todos os dias."</em>
+</p>
