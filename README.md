@@ -28,9 +28,11 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 **💻 Linguagens:**
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width=75px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width=75px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width=75px/>
+</p><br><br>
 
 **⚙️ Frameworks:**
 Node.js | React (básico)
