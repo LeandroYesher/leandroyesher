@@ -37,10 +37,17 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 </p>
 
 **⚙️ Frameworks:**
-Node.js | React (básico)
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width=75px/>
+</p>
 
 **🗄️ Banco de Dados:**
-MySQL | PostgreSQL
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width=75px/>
+</p>
 
 **🔧 Ferramentas:**
 Git | GitHub | VS Code
