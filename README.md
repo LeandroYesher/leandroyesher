@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello world, eu sou Leandro Yesher</h1>
+<h1 align="center">👋 Hello World!</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" />
@@ -27,7 +27,10 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 ## 🛠️ Tecnologias e Ferramentas
 
 **💻 Linguagens:**
-Python | Java | C/C++ | JavaScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width=75px />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width=75px/><br><br>
 
 **⚙️ Frameworks:**
 Node.js | React (básico)
