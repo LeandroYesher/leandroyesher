@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software
-💻 Apaixonado por tecnologia, desenvolvimento e inovação
+🎓 Estudante de Engenharia de Software<br>
+💻 Apaixonado por tecnologia, desenvolvimento e inovação<br> 
 🚀 Em constante evolução e aprendizado
 </p>
 
