@@ -4,9 +4,11 @@
   <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" />
 </p>
 
+<p align="center">
 🎓 Estudante de Engenharia de Software
 💻 Apaixonado por tecnologia, desenvolvimento e inovação
 🚀 Em constante evolução e aprendizado
+</p>
 
 ---
 
