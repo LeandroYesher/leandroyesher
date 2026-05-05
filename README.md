@@ -1,4 +1,4 @@
-<center><h1> 👋 Hello world, eu sou Leandro Yesher </h1></center>
+<h1 align="center">👋 Hello world, eu sou Leandro Yesher</h1>
 
 <p align="center">
   <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" />
