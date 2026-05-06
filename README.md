@@ -79,40 +79,9 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg"
-    />
-    <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg"/>
-  </picture>
-
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg"
-    />
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg"
-    />
-    <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg"/>
-  </picture>
-
+  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg"/>
 </p>
-
----
-![Stats's Leandro](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leandroyesher&theme=dark)](https://git.io/streak-stats)
-
-![Leandro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=leandroyesher&show_icons=true&theme=radical)
-
 
 ---
 
