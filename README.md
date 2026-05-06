@@ -39,70 +39,50 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="250">
 
-<!-- Linguagens -->
-<div style="display: inline-block; margin: 20px;">
-  
 ### 💻 Linguagens
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/>
 
-</div>
-
-<!-- Banco -->
-<div style="display: inline-block; margin: 20px;">
-
-### 🗄️ Banco de Dados
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
-
-</div>
-
-<!-- Cloud -->
-<div style="display: inline-block; margin: 20px;">
-
-### ☁️ Cloud Computing
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
-
-</div>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Frameworks -->
-<div style="display: inline-block; margin: 20px;">
+<br><br>
 
 ### ⚙️ Frameworks
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/>
 
-</div>
+</td>
 
-<!-- Ferramentas -->
-<div style="display: inline-block; margin: 20px;">
+<td align="center" width="250">
+
+### 🗄️ Banco de Dados
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55"/>
+
+<br><br>
 
 ### 🔧 Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55"/>
 
-</div>
+</td>
 
-</div>
+<td align="center" width="250">
+
+### ☁️ Cloud Computing
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
