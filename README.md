@@ -80,6 +80,8 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroyesher&theme=dark)](https://git.io/streak-stats)
+![Leandro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=leandroyesher&show_icons=true&theme=radical)
+
 
 ---
 
