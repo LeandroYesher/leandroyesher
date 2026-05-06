@@ -79,8 +79,8 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/main/generated/overview.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/main/generated/languages.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/generated/overview.svg#gh-dark-mode-only"/>
+  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/generated/languages.svg#gh-dark-mode-only"/>
 </p>
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
