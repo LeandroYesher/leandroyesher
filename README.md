@@ -78,13 +78,13 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg"/>
-  <img src="https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg"/>
-</p>
+![Stats's Leandro](https://raw.githubusercontent.com/leandroyesher/github-stats/generated/overview.svg#gh-dark-mode-only)
+![Stats's Leandro](https://raw.githubusercontent.com/leandroyesher/github-stats/generated/languages.svg#gh-dark-mode-only)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
+![Stats's Leandro](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=leandroyesher&theme=dark)](https://git.io/streak-stats)
+
 ![Leandro's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=leandroyesher&show_icons=true&theme=radical)
 
 
