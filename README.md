@@ -78,7 +78,6 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroyesher&show_icons=true&theme=radical)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leandroyesher&theme=tokyonight)
 
 ---
