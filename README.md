@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hello World!</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/YQ-r_mFzlm0AAAAM/typing-cat-typing.gif" />
+  <img src="https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif"/>
 </p>
 
 <p align="center">
-🎓 Estudante de Engenharia de Software<br>
+🎓 Formado em Engenharia de Software<br>
 💻 Apaixonado por tecnologia, desenvolvimento e inovação<br> 
 🚀 Em constante evolução e aprendizado
 </p>
@@ -26,6 +26,17 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 ---
 
+<h2 align="center">🎓 Formação</h2>
+
+| Cursos                | Validação|
+|-----------------------|----------|
+|Engenharia de Software| [Diploma](https://media.licdn.com/dms/image/v2/D4D2DAQExbUEyhNm_Cg/profile-treasury-image-shrink_800_800/B4DZ2EtBhXJQAY-/0/1776047889167?e=1778637600&v=beta&t=8KIuz1lc0_1f0ZzIHyd9rMrdQ8omUrMazGQPOvQDGWY)|
+|Ciência de Dados   | [Certificado](https://hermes.dio.me/certificates/QZQIMMGS.pdf)|
+|Engenharia de Dados| [Certificado](https://media.licdn.com/dms/image/v2/D4D2DAQFF46XcvN5FGg/profile-treasury-document-images_1280/B4DZ2DySuUK0AU-/1/1776032494024?e=1778716800&v=beta&t=Rv1ZQkojTMlganhLbKN8v6riqJheFDW1JseyDvVBQIM)|
+|AWS Practitioner| [Certificação](https://www.credly.com/badges/1f289535-84bb-44df-be02-e2f3cfa200dd/public_url)|
+
+---
+
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
 **💻 Linguagens:**
@@ -40,7 +51,6 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.JS" width=75px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width=75px/>
 </p>
 
 **🗄️ Banco de Dados:**
@@ -50,7 +60,21 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 </p>
 
 **🔧 Ferramentas:**
-Git | GitHub | VS Code
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="Google Colab" width=75px/>
+</p>
+
+**☁️ Cloud Computing:**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width=75px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" alt="VSCode" width=75px/>
+
+</p>
 
 ---
 
