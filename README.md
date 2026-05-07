@@ -39,39 +39,7 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 <h2 align="center">🛠️ Tecnologias e Ferramentas</h2>
 
-**💻 Linguagens:**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width=60px />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width=60px/>
-
-**⚙️ Frameworks:**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.JS" width=60px/>
-</p>
-
-**🗄️ Banco de Dados:**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width=60px/>
-</p>
-
-**🔧 Ferramentas:**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Google Colab" width=60px/>
-</p>
-
-**☁️ Cloud Computing:**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width=60px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width=60px/>
-</p>
+![Linguagens](./Tecnologia.jpg)
 
 ---
 
@@ -109,3 +77,5 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 <p align="center">
 💡 <em>"Aprender, construir e evoluir todos os dias."</em>
 </p>
+
+[def]: Tecnologia.jpg
