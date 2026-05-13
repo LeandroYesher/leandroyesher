@@ -30,7 +30,7 @@ Busco sempre aprender na prática, criando projetos e explorando novas tecnologi
 
 | Cursos                | Validação|
 |-----------------------|----------|
-|Engenharia de Software| [Diploma](https://media.licdn.com/dms/image/v2/D4D2DAQExbUEyhNm_Cg/profile-treasury-image-shrink_800_800/B4DZ2EtBhXJQAY-/0/1776047889167?e=1778637600&v=beta&t=8KIuz1lc0_1f0ZzIHyd9rMrdQ8omUrMazGQPOvQDGWY)|
+|Engenharia de Software| [Diploma](https://media.licdn.com/dms/image/v2/D4D2DAQExbUEyhNm_Cg/profile-treasury-image-shrink_800_800/B4DZ2EtBhXJQAY-/0/1776047889167?e=1779321600&v=beta&t=BdnO1rNgAIornmZsKDL9O4iYoSpv5s5X1tCNU_4zMqA)|
 |Ciência de Dados   | [Certificado](https://hermes.dio.me/certificates/QZQIMMGS.pdf)|
 |Engenharia de Dados| [Certificado](https://media.licdn.com/dms/image/v2/D4D2DAQFF46XcvN5FGg/profile-treasury-document-images_1280/B4DZ2DySuUK0AU-/1/1776032494024?e=1778716800&v=beta&t=Rv1ZQkojTMlganhLbKN8v6riqJheFDW1JseyDvVBQIM)|
 |AWS Practitioner| [Certificação](https://www.credly.com/badges/1f289535-84bb-44df-be02-e2f3cfa200dd/public_url)|
